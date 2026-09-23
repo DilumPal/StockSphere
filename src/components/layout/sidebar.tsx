@@ -10,6 +10,7 @@ export function Sidebar() {
   const links = [
     { name: "Dashboard", href: "/dashboard", icon: LayoutDashboard },
     { name: "Products", href: "/dashboard/products", icon: Package },
+    { name: "Inventory", href: "/dashboard/inventory", icon: Package },
     { name: "Categories", href: "/dashboard/categories", icon: Settings },
     { name: "Suppliers", href: "/dashboard/suppliers", icon: Truck },
     { name: "Warehouses", href: "/dashboard/warehouses", icon: Home },
